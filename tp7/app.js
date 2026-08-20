@@ -1,0 +1,1 @@
+let parrafo1 = document.querySelector ('#parrafo1')
