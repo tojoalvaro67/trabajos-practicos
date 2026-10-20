@@ -25,3 +25,12 @@ nombres[4]== nombres[2]=F
 // FOR repite todoloque quieras
 for(let 1=0;i<5;i++)
 console.log(notas[i])
+//COMO BUSCAR EN ESPECIFICO
+let nombres = ["alvaro", "malena", "bruno"]
+let DNI = ["52178087", "52060306"]
+let notasprog = ["90","75"]
+let notased = [100,30,50]
+//ahora si como buscar en especifico
+inputDNI = document.querySelector("#inputDNI")
+let boton = document.querySelector("boton")
+let p = document.querySelector("p")
