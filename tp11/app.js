@@ -15,5 +15,14 @@ utiles.unshift("cartuchera")
 console.log(utiles)
 console.log(utiles.length)
 
+utiles.pop()
+console.log(utiles)
 
+console.log(ultimo)
 
+utiles.shift(0)
+
+console.log(0)
+ console.log(utiles.length)
+
+ //EJERCICIO 2
