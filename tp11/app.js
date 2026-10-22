@@ -20,9 +20,11 @@ console.log(utiles)
 
 console.log(ultimo)
 
-utiles.shift(0)
+utiles.shift()
 
 console.log(0)
- console.log(utiles.length)
+console.log(utiles.length)
 
  //EJERCICIO 2
+ let productos = ["leche", "pan","arroz","fideos","aceite"]
+  console.log(productos)
