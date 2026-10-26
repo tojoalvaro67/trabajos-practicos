@@ -22,7 +22,7 @@ console.log(nombres[0])
 // VERDADERO o falso
 nombres[4]== nombres[4]=V
 nombres[4]== nombres[2]=F 
-// FOR repite todoloque quieras
+// FOR repite todo lo que quieras
 for(let 1=0;i<5;i++)
 console.log(notas[i])
 //COMO BUSCAR EN ESPECIFICO
@@ -34,3 +34,38 @@ let notased = [100,30,50]
 inputDNI = document.querySelector("#inputDNI")
 let boton = document.querySelector("boton")
 let p = document.querySelector("p")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ejercicios depractica en vinculacion
+
+
+// ejercicio numero 1 
+function calculo  (x2+ y3+ c + 2)
+let cuenta = x2 + y3 + c + 2
+return cuenta
+
+// ejercicio 2
+ function nombres = ("pato")
+
+ let saludar = hola,¿pato como estas?
+
+ alert("hola pato, ¿como estas?")
+
