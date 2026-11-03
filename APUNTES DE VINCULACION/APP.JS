@@ -12,7 +12,7 @@ nombres.unshift("juana")
 nombres.push("alvaro")
 // como concatenar
 nombres[2]= nombres[2]+"suarez"
-ESTO AHI SE UNE ✌✌✌✌✌✌✌
+//ESTO AHI SE UNE ✌✌✌✌✌✌✌
 // lenght cantidad de elementos que tenes en el arreglo
 nombres[nombres.length]="juana"
             5
@@ -59,7 +59,7 @@ let p = document.querySelector("p")
 
 // ejercicio numero 1 
 function calculo  (x2+ y3+ c + 2)
-let cuenta = x2 + y3 + c + 2
+let cuenta = x2 + y3 + c + 2><
 return cuenta
 
 // ejercicio 2
